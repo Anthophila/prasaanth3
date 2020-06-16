@@ -14,3 +14,10 @@
 		// shppa_[a-fA-F0-9]{32,64}
 		{input: "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"},
 	},
+
+http://test.blob.core.windows.net/test/test.vhd?sr=c&si=test&sig=abcdefghijklmnopqrstuvwxyz0123456789%F%2BABCDE%3D
+
+http://test.blob.core.windows.net/test/test.vhd?sr=c&si=test&sig=abcdefghijklmnopqrstuvwxyz01234569%F%2BABCDE%3D
+
+http://test.blob.core.windows.net/test/test.vhd?sr=c&si=test&sig=abcdefghijklmnopqrstuvwxyz012345678%F%2BABCDE%3D ggg
+
