@@ -21,7 +21,7 @@ http://test.blob.core.windows.net/test/test.vhd?sr=c&si=test&sig=abcdefghijklmno
 
 http://test.blob.core.windows.net/test/test.vhd?sr=c&si=test&sig=abcdefghijklmnopqrstuvwxyz012345678%F%2BABCDE%3D ggg
 
-
+gg
 
 		"MICROSOFT_AZURE_DEPLOYMENT_PASSWORD": {
 			{input: "userPWD=abcdefghijklmnopqrstuvwxyz0123456789/+ABCDEFGHIJKLMNOPQRSTUV"},
